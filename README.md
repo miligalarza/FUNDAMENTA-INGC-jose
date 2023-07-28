@@ -29,7 +29,7 @@ Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente
 - Usar numeros redondos 
 - Longitud de empalme de 60 veces el diametro
 - Densificar en L/5 o 2H segun el mayor de estos valores desde las columnas, Si la 150<L<250 usamos estribos cada 15, Si la L<150 usamos estribos cada 10
-
+- Longitudes tipicas: 100 120 150 170 200 240 300 340 360 400 450 480 600 720 750 800 850 900 960 1000 1050 1080 1200
 
 #### VIGAS METALICAS
 - Existe una planilla donde se puede determinar si verifican las vigas metalicas de las cubiertas
