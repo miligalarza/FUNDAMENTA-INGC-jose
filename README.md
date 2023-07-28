@@ -28,7 +28,8 @@ Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente
 -Usar barras longitudinales que sean multiplos de 120cm para llegar a 1200cm sin desperdicios
 -Usar numeros redondos 
 -Longitud de empalme de 60 veces el diametro
--Densificar en L/5 o 2H segun el mayor de estos valores desde las columnas
+-Densificar en L/5 o 2H segun el mayor de estos valores desde las columnas, Si la 150<L<250 usamos estribos cada 15, Si la L<150 usamos estribos cada 10
+-
 
 #### VIGAS METALICAS
 
