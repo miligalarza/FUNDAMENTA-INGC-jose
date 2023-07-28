@@ -36,6 +36,12 @@ Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente
 - Se colocan como cargas puntales en el CYPE
 
 ## CARGAS
+
+###CARGAS DE CUBIERTA
 - Para cubiertas usar carga de 70kg/m2 o 0.07t/m2
+- Distribuir correas cada 0.80-1.00 de distancia empezando a 0.10 del borde
+###CARGAS DE MURO
+- Se determinan como 0.60x1.60xHmuroxEspesor (cargalineal)
+- 
 
 
