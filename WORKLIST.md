@@ -1,4 +1,4 @@
-JULIO - 2023
+# JULIO - 2023
 
 220902_Batcon_ProcrearDuplexTipo - 
     Municipal Modificacion
@@ -16,7 +16,7 @@ JULIO - 2023
     Planilla de Vigas Métalicas - 
     Falta hacer Ejecutivo del Garage.-
 
-AGOSTO - 2023 
+# AGOSTO - 2023 
 
 230412_Audes_WarehouseSalar
     Acotar Estructura de StruBim - 
