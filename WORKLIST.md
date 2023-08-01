@@ -20,7 +20,7 @@ Falta hacer Ejecutivo del Garage.
 
  - 230412_Audes_WarehouseSalar
 Acotar Estructura de StruBim
-- G:\Dropbox\FUNDAMENTA 16\FDM-2018\230412_Audes_WarehouseSalar\01. Realizados\06. StruBIM\PRIMERAS 20T\DWG\02.CONJUNTOS\CERCHAS
+G:\Dropbox\FUNDAMENTA 16\FDM-2018\230412_Audes_WarehouseSalar\01. Realizados\06. StruBIM\PRIMERAS 20T\DWG\02.CONJUNTOS\CERCHAS
 
 
 
