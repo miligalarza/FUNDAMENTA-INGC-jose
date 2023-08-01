@@ -13,7 +13,8 @@
  - 230707_Audes_FundacionTK  
 ~~Planilla de Corte y Doblado~~ 
 
- - 230304_FC_CasaHL   
+ - 230304_FC_CasaHL
+   ~~Preliminar r01~~  
 Falta hacer Ejecutivo del Garage.
 
 ### AGOSTO - 2023 
