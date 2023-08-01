@@ -1,20 +1,19 @@
 ### JULIO - 2023
 
  - 220902_Batcon_ProcrearDuplexTipo  
-Municipal Modificacion
+~~Municipal Modificacion~~
 
  - 230411_Globo_Stagnetto  
-Preliminar r00
+~~Preliminar r00~~
 
  - 221109_IDEE_Leloir  
- Informe de Excavacion  
- Informe de Submuracion
+ ~~Informe de Excavacion~~    
+   Informe de Submuracion
 
  - 230707_Audes_FundacionTK  
-Planilla de Corte y Doblado 
+~~Planilla de Corte y Doblado~~ 
 
  - 230304_FC_CasaHL   
-Planilla de Vigas Métalicas 
 Falta hacer Ejecutivo del Garage.
 
 ### AGOSTO - 2023 
