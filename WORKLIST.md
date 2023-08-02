@@ -7,8 +7,9 @@
 ~~Preliminar r00~~
 
  - 221109_IDEE_Leloir  
- ~~Informe de Excavacion~~    
-   Informe de Submuracion
+ ~~Informe de Excavacion_r00~~    
+ ~~Informe de Submuracion_r01~~  
+ Se puede seguir trabajando en el informe de la submuracion
 
  - 230707_Audes_FundacionTK  
 ~~Planilla de Corte y Doblado~~ 
