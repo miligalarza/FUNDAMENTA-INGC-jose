@@ -6,7 +6,7 @@ insert | puedo insertar un bloque dinamico
 
 select + wipeout +space(polilinea)+erase(yes) transparency 35 v 50
 
-###
+attsync | sincronizar y editar util en los rotulos (editar bloques en editor de bloques a los rotulos)
 
 ### CHINOS 
 
