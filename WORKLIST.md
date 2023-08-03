@@ -25,6 +25,11 @@ Acotar Estructura de StruBim
 G:\Dropbox\FUNDAMENTA 16\FDM-2018\230412_Audes_WarehouseSalar\01. Realizados\06. StruBIM\PRIMERAS 20T\DWG\02.CONJUNTOS\CERCHAS
 
 - 230209_Liex_205_AirflowPulverization-PackagingWorkshop  
-C:\Users\pc\Dropbox\FUNDAMENTA 16\FDM-2018\230209_Liex_205_AirflowPulverization-PackagingWorkshop\00. Recibidos\01-08 ehouse205  
-Ejemplo 302 - C:\Users\pc\Dropbox\FUNDAMENTA 16\FDM-2018\230112_Audes_302 Solid alkali storage and alkali blending\01. Realizados\01. CAD\SECTOR HORMIGÓN\REV C  
+C:\Users\pc\Dropbox\FUNDAMENTA 16\FDM-2018\230209_Liex_205_AirflowPulverization-PackagingWorkshop\00. Recibidos\01-08 ehouse205
+Ejemplo 302 - C:\Users\pc\Dropbox\FUNDAMENTA 16\FDM-2018\230112_Audes_302 Solid alkali storage and alkali blending\01. Realizados\01. CAD\SECTOR HORMIGÓN\REV C
+DESPIECE
+PLANIMETRIA
+DIAGRAMA
+CORREGIR PCD
+
 
