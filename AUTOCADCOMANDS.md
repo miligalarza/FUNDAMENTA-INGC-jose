@@ -4,7 +4,8 @@
 XL + h  | trazar una linea horizontal  
 insert | puedo insertar un bloque dinamico  
 
-select + wipeout +space(polilinea)+erase(yes) transparency 35 v 50
+MODELO --> select + wipeout +space(polilinea)+erase(yes) transparency 35 v 50
+PAPEL --> Wipeout+Frames+Display but not plot|regen
 
 attsync | sincronizar y editar util en los rotulos (editar bloques en editor de bloques a los rotulos)
 
