@@ -11,7 +11,7 @@ Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente
 ## COLUMNAS
 
 #### COLUMNAS DE H°A°
-- Columnas 0.70 de empotramiento. Se puede asignar a varias columnas desde entrada de columnas -copiar- grupo inicial y final-coeficiente de empotramiento-asignar -seleccionamos las columnas-terminar con click derecho terminar
+- Columnas 0.70 de empotramiento. Se puede asignar a varias columnas desde entrada de columnas -copiar- grupo inicial y final-coeficiente de empotramiento-asignar -seleccionamos las columnas-terminar con click derecho terminar  
 - Cuantia minima de 1.00 a 2.00  
 
 #### COLUMNAS METALICAS
