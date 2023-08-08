@@ -35,7 +35,8 @@ Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente
 - Longitudes tipicas: 100 120 150 170 200 240 300 340 360 400 450 480 600 720 750 800 850 900 960 1000 1050 1080 1200
 
 - Cuantia minima superior 0,0026xAREA[cm] = As Minima a cubrir independientemente de lo q pida, donde el digrama de momentos lo pida
-- fi8 arriba fi10 abajo ( 1 refuerzo) 
+- fi8 arriba fi10 abajo ( 1 refuerzo)
+- para los refuerzos de las vigas MIRAR las envolventes !
 
 #### VIGAS METALICAS
 - Existe una planilla donde se puede determinar si verifican las vigas metalicas de las cubiertas
