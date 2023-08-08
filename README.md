@@ -45,11 +45,18 @@ Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente
 
 ## CARGAS
 
-###CARGAS DE CUBIERTA
+### CARGAS DE CUBIERTA
 - Para cubiertas usar carga de 70kg/m2 o 0.07t/m2
 - Distribuir correas cada 0.80-1.00 de distancia empezando a 0.10 del borde
-###CARGAS DE MURO  
+### CARGAS DE MURO  
 - Se determinan como PesoespecificoxHmuroxEspesor (cargalineal)
-  
+
+ ## BASES
+
+ Ploteamos-Cargas de fundacion en CYPE (Arranques momentos y cortes) -> Obtenemos carga de bases con planilla de Carga de Fundaciones  
+ 
+  ### BASES AISLADAS  
+   - Usamos la planilla de bases aisladas verificamos la tension de contacto
+   - 
 
 
