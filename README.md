@@ -37,6 +37,7 @@ Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente
 - Cuantia minima superior 0,0026xAREA[cm] = As Minima a cubrir independientemente de lo q pida, donde el digrama de momentos lo pida
 - fi8 arriba fi10 abajo ( 1 refuerzo)
 - para los refuerzos de las vigas MIRAR las envolventes !
+- Vigas chiquitas(20x30 v 20x20) no pueden terner fi16 pensar en agrandar las vigas o en otra solucion
 
 #### VIGAS METALICAS
 - Existe una planilla donde se puede determinar si verifican las vigas metalicas de las cubiertas
