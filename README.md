@@ -39,9 +39,10 @@ Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente
 - fi8 arriba fi10 abajo ( 1 refuerzo)
 - para los refuerzos de las vigas MIRAR las envolventes y la posicion de los esfuerzos maximos!
 - Vigas chiquitas(20x30 v 20x20) no pueden terner fi16 pensar en agrandar las vigas o en otra solucion
-- Ref en apoyos minimo 240
+- Ref centrales en apoyos minimo 240
+- Ref laterales en apoyos minimo 120
 - Ref tramo minimo 300
-- Ganchos: abajo +15 | arriba maximo
+- Ganchos: abajo +15 | arriba el maximo posible (+20)
 - Saltos de armadura para refuerzos maximo 2 saltos
 
 - EN CASAS: la armadura de piel es de fi6 v fi8 c/15
