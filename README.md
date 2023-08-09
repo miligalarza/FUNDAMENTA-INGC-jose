@@ -44,6 +44,7 @@ Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente
 - Ref tramo minimo 300
 - Ganchos: abajo +15 | arriba el maximo posible (+20)
 - Saltos de armadura para refuerzos maximo 2 saltos
+- Vigas simetricas aprox hacer armaduras simetricas aprox
 
 - EN CASAS: la armadura de piel es de fi6 v fi8 c/15
   
