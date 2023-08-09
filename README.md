@@ -18,7 +18,8 @@ Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente
 - Columnas Metalicas 0.10 de empotramiento
 - Destildar opcion de dimensionar elementos metálicos
 - Un perfil comun que remplaza las vigas de 20x20 de HA son las columnas 2UPN120
-
+- Fustes de 25x25 minimo para columnas metalicas
+  
 ## VIGAS
 
 #### VIGAS APEO
@@ -34,11 +35,17 @@ Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente
    Si la L<150 usamos estribos cada 10. fi6c/20 Tramo, fi6c/10 Apoyo.  
 - Longitudes tipicas: 100 120 150 170 200 240 300 340 360 400 450 480 600 720 750 800 850 900 960 1000 1050 1080 1200
 
-- Cuantia minima superior 0,0026xAREA[cm] = As Minima a cubrir independientemente de lo q pida, donde el digrama de momentos lo pida
+- Cuantia minima superior e inferior 0,0026xAREA[cm] = As Minima a cubrir independientemente de lo q pida, DONDE EL DIAGRAMA DE MOMENTOS LO PIDA
 - fi8 arriba fi10 abajo ( 1 refuerzo)
-- para los refuerzos de las vigas MIRAR las envolventes !
+- para los refuerzos de las vigas MIRAR las envolventes y la posicion de los esfuerzos maximos!
 - Vigas chiquitas(20x30 v 20x20) no pueden terner fi16 pensar en agrandar las vigas o en otra solucion
+- Ref en apoyos minimo 240
+- Ref tramo minimo 300
+- Ganchos: abajo +15 | arriba maximo
+- Saltos de armadura para refuerzos maximo 2 saltos
 
+- EN CASAS: la armadura de piel es de fi6 v fi8 c/15
+  
 #### VIGAS METALICAS
 - Existe una planilla donde se puede determinar si verifican las vigas metalicas de las cubiertas
 - Se colocan como cargas puntales en el CYPE
@@ -54,9 +61,12 @@ Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente
  ## BASES
 
  Ploteamos-Cargas de fundacion en CYPE (Arranques momentos y cortes) -> Obtenemos carga de bases con planilla de Carga de Fundaciones  
+
  
-  ### BASES AISLADAS  
-   - Usamos la planilla de bases aisladas verificamos la tension de contacto
-   - 
+ 
+ ### BASES AISLADAS  
+ - Usamos la planilla de bases aisladas verificamos la tension de contacto
+ - se agrupan bases con cargas similares
+ - EN CASAS: las bases de menos de 4 toneladas se hacen como bloques
 
 
