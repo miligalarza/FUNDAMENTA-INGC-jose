@@ -49,9 +49,16 @@ Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente
 - EN CASAS: la armadura de piel es de fi6 v fi8 c/15
 - Se pueden verificar en armado de vigas la flecha activa con el simbolo de la par de As maximo se permite L/500
   
-#### VIGAS METALICAS
+#### PLANILLA VIGAS METALICAS
 - Existe una planilla donde se puede determinar si verifican las vigas metalicas de las cubiertas
-- Se colocan como cargas puntales en el CYPE
+- Se colocan como cargas puntales en el CYPE 
+- Se usan para calcular Cerchas y vigas metalicas
+- K1 , VM1, VM2, etc. (ej K1 Luz 3.14 sep 0.75 perfil N10  (C100/50/15/1.6)cant 1 posicion 1 
+- LUZ agregamos la luz de calculo, la planilla calcula como una viga simplente apoyada
+- SEP. agregamos la separacion o la luz de carga que absorbe cada elemento
+- g p w p son carga gravitatoria uniformemente distribuida, carga viva uniformemente distribuida, de viento uniformemente distribuida y carga puntual (podemos poner g y p como solo 70 en uno de los dos para asignar lo que usamos normalmente)
+- Cant. Posicion Para Vigas siempre usamos 2 y 1
+- Asignamos un perfil y vamos probando, se usa mucho perfiles C dobles (como formando un rectangulo)
 
 ## CARGAS
 
@@ -64,7 +71,14 @@ Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente
  ## BASES
 
  Ploteamos-Cargas de fundacion en CYPE (Arranques momentos y cortes) -> Obtenemos carga de bases con planilla de Carga de Fundaciones  
-
+ Cuando tenesmos bases convinadas donde llegan 2 o mas columnas primero tenemos q calcular el baricentro de fuerzas y de ahi se calcula la dimension de la base
+ cx cy dimensiones de la columna
+ bx by dimensiones de la columna +2.5cm
+ ax ay dimensiones de la base en planta
+ d0 y d son la altura de la parte rectangular y de la parte superior del cono trucnado de la base respectivamente,
+ H es la altura d menos el recubrimiento
+ d d0 y H tal q el agunlo del cono truncado de la base sea 23 es lo deseable
+ 
  
  
  ### BASES AISLADAS  
