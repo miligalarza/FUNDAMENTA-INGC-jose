@@ -60,7 +60,7 @@ Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente
 - Cant. Posicion Para Vigas siempre usamos 2 y 1
 - Asignamos un perfil y vamos probando, se usa mucho perfiles C dobles (como formando un rectangulo)
 
-  #### PLANILLA CALCULO DE CERCHAS
+#### PLANILLA CALCULO DE CERCHAS
 
   - Editamos solo los elementos en Rojo
   - Luz: es la luz de calculo como si fuera una viga simplemente apoyada todo el elemento
