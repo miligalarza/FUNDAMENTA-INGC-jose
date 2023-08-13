@@ -82,6 +82,7 @@ Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente
 A la hora de elegir los perfiles debemos pensar como los elementos se van a soldar ejemplo 2 perfiles C80 tienen una soldadura mas segura q un perfil C80 y un TE 30x30
 Se prefiere el uso de la cerchas  como si fuera un triangulo con la base abajo en el centro y se repiten simetricamente la armadura a la izquierda y derecha (Celosía/Cercha tipo pratt triangular)
 las barras verticales se van proponiendo segun la luz ej (.80m a 1 m)
+Creamos una planilla para cada cercha
 
 
     
