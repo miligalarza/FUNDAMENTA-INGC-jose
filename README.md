@@ -60,6 +60,31 @@ Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente
 - Cant. Posicion Para Vigas siempre usamos 2 y 1
 - Asignamos un perfil y vamos probando, se usa mucho perfiles C dobles (como formando un rectangulo)
 
+  #### PLANILLA CALCULO DE CERCHAS
+
+  - Editamos solo los elementos en Rojo
+  - Luz: es la luz de calculo como si fuera una viga simplemente apoyada todo el elemento
+  - Carga puntual la carga q va en el medio.. ej si tengo 3 vigas metalicas q llegan al coronamiento de mi cercha divido la carga total q llega a ese punto en dos ( como si analizara la mitad de la cercha)
+  - Carga y ancho de carga es una carga uniformemente distrubuida que corresponde con la cercha ( como el resto de los elemenotos como corresas 70kg por el ancho de influencia)
+
+ 
+    VERIFICACION DEL CORDON COMPRIMIDO  
+  - Determino el brazo de palanca elastico desde el eje del centro del elemento superior hasta el eje del elemento inferior 
+  - Determino la longitud del cordon comprimido como el cordon central con la longitud inclinada entre barras inclinadas
+  - Introducimos un codigo de busqueda que corresponde con REF Perfiles ( usamos mucho perfiles C como por ejemplo C 80-2)
+ 
+    
+    VERIFICACION DE LA DIAGONAL  
+  - Introducimos angulo
+  - Longitud de la diagonal mas larga y codigo de busqueda hasta q verifique (Usamos mucho perfiles C80-2 v C80-2.5)
+
+
+A la hora de elegir los perfiles debemos pensar como los elementos se van a soldar ejemplo 2 perfiles C80 tienen una soldadura mas segura q un perfil C80 y un TE 30x30
+Se prefiere el uso de la cerchas  como si fuera un triangulo con la base abajo en el centro y se repiten simetricamente la armadura a la izquierda y derecha (Celosía/Cercha tipo pratt triangular)
+las barras verticales se van proponiendo segun la luz ej (.80m a 1 m)
+
+
+    
 ## CARGAS
 
 ### CARGAS DE CUBIERTA
@@ -68,16 +93,16 @@ Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente
 ### CARGAS DE MURO  
 - Se determinan como PesoespecificoxHmuroxEspesor (cargalineal)
 
- ## BASES
+ ## PLANILLA BASES AISLADAS
 
- Ploteamos-Cargas de fundacion en CYPE (Arranques momentos y cortes) -> Obtenemos carga de bases con planilla de Carga de Fundaciones  
- Cuando tenesmos bases convinadas donde llegan 2 o mas columnas primero tenemos q calcular el baricentro de fuerzas y de ahi se calcula la dimension de la base
- cx cy dimensiones de la columna
- bx by dimensiones de la columna +2.5cm
- ax ay dimensiones de la base en planta
- d0 y d son la altura de la parte rectangular y de la parte superior del cono trucnado de la base respectivamente,
- H es la altura d menos el recubrimiento
- d d0 y H tal q el agunlo del cono truncado de la base sea 23 es lo deseable
+ -  Ploteamos-Cargas de fundacion en CYPE (Arranques momentos y cortes) -> Obtenemos carga de bases con planilla de Carga de Fundaciones  
+ -  Cuando tenesmos bases convinadas donde llegan 2 o mas columnas primero tenemos q calcular el baricentro de fuerzas y de ahi se calcula la dimension de la base
+ -  cx cy dimensiones de la columna
+ -  bx by dimensiones de la columna +2.5cm
+ -  ax ay dimensiones de la base en planta
+ - d0 y d son la altura de la parte rectangular y de la parte superior del cono trucnado de la base respectivamente,
+ -  H es la altura d menos el recubrimiento
+ -  d d0 y H tal q el agunlo del cono truncado de la base sea 23 es lo deseable
  
  
  
