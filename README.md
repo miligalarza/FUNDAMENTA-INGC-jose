@@ -104,6 +104,7 @@ Creamos una planilla para cada cercha
  - d0 y d son la altura de la parte rectangular y de la parte superior del cono trucnado de la base respectivamente,
  -  H es la altura d menos el recubrimiento
  -  d d0 y H tal q el agunlo del cono truncado de la base sea 23 es lo deseable
+ -  Para pegar las planillas de bases aisaldas y cualquiera hacemos paste special - scale 0.07
  
  
  
