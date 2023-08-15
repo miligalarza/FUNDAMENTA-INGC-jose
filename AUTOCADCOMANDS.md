@@ -9,6 +9,8 @@ PAPEL --> Wipeout+Frames+Display but not plot|regen
 
 attsync | sincronizar y editar util en los rotulos (editar bloques en editor de bloques a los rotulos)
 
+ncopy | dentro de un bloque puedo copiar elementos de otro bloque
+
 ### CHINOS 
 
   esc 0.001 | escalar lo q manda saxum con esta escala
