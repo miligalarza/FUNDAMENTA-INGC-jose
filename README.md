@@ -25,6 +25,7 @@ Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente
 #### VIGAS APEO
 - Articular las vigas de encadenado (en el nivel de apeo), donde haya carga utilizar vigas comunes y armar
 - En el nivel de Apeos las columnas se unen con vigas que pueden estar inclinadas segun la longitud mas corta que las una
+- Donde pida mas q la armadura minima se puede colocar un bloque de apoyo de 60x60x60 y poner en el cype ua carga de .8 hacia arriba negativa
 
 #### VIGAS DE H°A°
 - Usar barras longitudinales que sean multiplos de 120cm para llegar a 1200cm sin desperdicios
