@@ -7,6 +7,8 @@ Repositorio de fundamenta donde guardo archivos y comentarios utiles
 
 Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente 
 
+PARA OBRAS CON HORMIGON IN SITU USAR H13 O H17 ... en san miguel de tucuman se puede llegar a usar H21
+
 
 ## COLUMNAS
 
@@ -62,6 +64,14 @@ Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente
 - Cant. Posicion Para Vigas siempre usamos 2 y 1
 - Asignamos un perfil y vamos probando, se usa mucho perfiles C dobles (como formando un rectangulo)
 
+#### CORREAS
+ - Se colocan a 30cm del borde contrario a la canaleta o a 30cm de la apretada.
+ - Donde va la canaleta va una correa en coincidencia
+ - Se adopta una separacion conveniente en funcion del espacio a ocuar con correas
+ - Considerar en caso de continuidad entre correas el factor 0.7 de la planilla de vigas metalicas
+ - Se usan normalmente correas de 10cm de alto de 1.5 o 2mm de espesor... elementos estructursles como vigas metalicas de refuerzo llevan minimo espesor de 2mm.. correas sin vigas meralicas llevan tmb 2mm
+ - para el tanque se divide la carga de tanque en general 1100l o kg en 4 correas q van de bajo en posicion 2 y se verifican un valor muy normal es de 140 de alto de correa 
+
 #### PLANILLA CALCULO DE CERCHAS
 
   - Editamos solo los elementos en Rojo
@@ -84,7 +94,11 @@ Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente
 A la hora de elegir los perfiles debemos pensar como los elementos se van a soldar ejemplo 2 perfiles C80 tienen una soldadura mas segura q un perfil C80 y un TE 30x30
 Se prefiere el uso de la cerchas  como si fuera un triangulo con la base abajo en el centro y se repiten simetricamente la armadura a la izquierda y derecha (Celosía/Cercha tipo pratt triangular)
 las barras verticales se van proponiendo segun la luz ej (.80m a 1 m)
-Creamos una planilla para cada cercha
+Creamos una planilla para cada cercha.  
+
+
+En cerchas de cierre no importa tanto el angulo, tratamos de que sean medidas estandares para todo el tramo donde la cercha de cierre coincida con correas ponemos un montante en correspondencia con la correa o soportes
+
 
 
     
