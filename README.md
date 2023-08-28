@@ -99,6 +99,14 @@ Creamos una planilla para cada cercha.
 
 En cerchas de cierre no importa tanto el angulo, tratamos de que sean medidas estandares para todo el tramo donde la cercha de cierre coincida con correas ponemos un montante en correspondencia con la correa o soportes
 
+## LOSAS CYPE
+
+#### ARMADO INFERIOR X e Y 
+
+1. Vamos a Isovalores
+2. Ver - Hipotesis y Plantas
+3. Esfuerzos de dimensionamiento - Momento en X, Cuantia Inferior
+4. Vamos al la planilla - Esfuerzos ( ponemos un armado y un valor en esfuerzos As nec tiene q ser apoximadamente igual a Asasumtotal)-buscamos q los refuerzos sean de la misma separacion q la rmadura base para que sea una barra mas en el medio de la base
 
 
     
