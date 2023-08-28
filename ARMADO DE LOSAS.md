@@ -11,4 +11,5 @@
 7. Lasbarras de refuerzo y base q llegan  a los bordes llevanganchos son del espesor de la losa menos dos veces el recubrimieno ej losa de 20 lleva ganchos de 15
 8. Los ganchos de armados superiores van hacia abajo de armados inferiores hacia arriba
 9. Si tengo un tabique o una viga gande abajo de la losa debo alagar las patitas de las barras mas del espeso de la losa segun cortes de barras
+10. Lago de las patitas  minimo: fi16-L=2m-P20 fi20-L=2.40m-P30 fi25-L=2.40-P45
     
