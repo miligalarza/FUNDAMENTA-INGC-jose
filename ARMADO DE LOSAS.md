@@ -10,4 +10,5 @@
 6. para los refuezos minimo ponemos barras de 1.50
 7. Lasbarras de refuerzo y base q llegan  a los bordes llevanganchos son del espesor de la losa menos dos veces el recubrimieno ej losa de 20 lleva ganchos de 15
 8. Los ganchos de armados superiores van hacia abajo de armados inferiores hacia arriba
+9. Si tengo un tabique o una viga gande abajo de la losa debo alagar las patitas de las barras mas del espeso de la losa segun cortes de barras
     
