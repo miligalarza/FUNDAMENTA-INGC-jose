@@ -15,4 +15,5 @@
 11. Si tengo momento tengo que cubrir todo con "Cuantia Sum. minima de 0.14 donde hay mucho 0 puedo poner armado basede cuantia sum. minima de .12"
 12. baras de mas de 12m dejar una barra de 12 y el resto una barrita paraahorra corte.
 13. ojo dondetengo vigas la barra entra dentro
+14. En caso de no pode llega a las longitudes de barra estandar usar longitudes lo mas redondas posibles en 100 200 300 400 500 600 700 u 150 250 350 450  u 155 165 160 ( en 0 5) evitar medidas tipo 177
     
